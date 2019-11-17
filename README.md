@@ -1,4 +1,4 @@
-# Learning-Course-Web-Developement
+# Learning-Course-Web-Development
 
 -Step1 : Learn HTML & CSS \
 Link 1:http://freecodecamp.com/ \
